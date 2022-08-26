@@ -11,3 +11,5 @@ print("hola mundo")
 print("hi git", 2+2)
 
 print("hola edwin")
+
+print(1+2+3)
