@@ -1,0 +1,35 @@
+git add 1.py
+git commit -m "primer commit"
+
+git add 1.py
+git commit -m "agregue hola mundo"
+
+git checkout #hashid
+
+git checkout -
+
+#copiar rama
+
+git checkout -b rama-edwin #crear otra rama basada en la q estas (copiar)
+
+#en que rama estoy?
+git branch
+
+#moverse entre ramas
+
+git checkout <nombre-rama>
+
+
+#combinar una rama en otra rama (merge)
+
+git merge  rama-edwin
+
+git merge master rama-edwin
+
+#estoy enlazado con un repositorio o no?
+
+git remote -v
+
+#subir cambios al repositorio en una rama especifica
+
+git push origin <nombre-rama>
