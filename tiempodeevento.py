@@ -34,9 +34,3 @@ print(str(dias) + ' dia(s)')
 print(str(horas) + ' hora(s)')
 print(str(minutos) + ' minuto(s)')
 print(str(segundos) + ' segundo(s)')
-        
-
-
-
-
-
